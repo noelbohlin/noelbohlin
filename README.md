@@ -1,36 +1,28 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Profession or Interests] from [Your Location]. Welcome to my GitHub profile!
+I'm Noel, a communication soldier in the Swedish Armed Forces with a computer science hobby on the side. Welcome to my GitHub profile!
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
-[List some of the technologies and tools you are familiar with.]
+## Currently Learning
 
-## 🌱 Currently Learning
+## GitHub Stats
 
-[Share what you are currently learning or exploring.]
-
-## 📈 GitHub Stats
-
-[Include a GitHub stats card showcasing your contributions and activity.]
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=noelbohlin&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noelbohlin&show_icons=true&theme=radical)
 
 ## 📚 Featured Repositories
 
-[Highlight some of your noteworthy repositories with a brief description.]
+1. [CS50X](https://github.com/noelbohlin/cs50x/) - My solutions aswell as lecture notes from the 2024 CS50x course.
+2. [CS50P](https://github.com/noelbohlin/cs50p/) - My solutions from the 2024 CS50P course.
+3. [ORBAT](https://github.com/noelbohlin/orbat/) - 
+4. [List](https://github.com/noelbohlin/list/) - 
+5. [Dotfiles](https://github.com/noelbohlin/dotfiles/) - Configuration files for my Linux desktop setup.
 
-1. [Repository Name](link-to-repository) - Brief description.
-2. [Repository Name](link-to-repository) - Brief description.
-3. ...
-
-## 📫 Let's Connect
+## Let's Connect
 
 [Provide links to your social media profiles, portfolio, or any other platforms where people can connect with you.]
 
-- [LinkedIn](https://www.linkedin.com/in/your-username/)
-- [Twitter](https://twitter.com/your-username)
-- [Portfolio](https://your-portfolio.com)
+- [Mail](bohlin.noel@gmail.com)
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect! 😄
 
@@ -49,11 +41,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-## [1. CS50P](https://github.com/noelbohlin/cs50p)
-## [2. CS50X](https://github.com/noelbohlin/cs50x)
-## [3. My dotfiles](https://github.com/noelbohlin/dotfiles)
-## [4. ORBAT](https://github.com/noelbohlin/orbat)
-## [5. List](https://github.com/noelbohlin/list)
-
