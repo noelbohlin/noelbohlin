@@ -10,7 +10,7 @@ I'm Noel, a communication soldier in the Swedish Armed Forces with a computer sc
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noelbohlin&show_icons=true&theme=radical)
 
-## 📚 Featured Repositories
+## Featured Repositories
 
 1. [CS50X](https://github.com/noelbohlin/cs50x/) - My solutions aswell as lecture notes from the 2024 CS50x course.
 2. [CS50P](https://github.com/noelbohlin/cs50p/) - My solutions from the 2024 CS50P course.
