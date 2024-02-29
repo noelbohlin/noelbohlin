@@ -30,10 +30,3 @@ I'm Noel, a communication soldier in the Swedish Armed Forces with a computer sc
 - [Instagram](https://www.instagram.com/noelbohlin/)
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect!
-
-
-> hejsan
-
->> Hejsna
-
-> Hejsan
