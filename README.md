@@ -11,6 +11,8 @@ I'm Noel, a communication soldier in the Swedish Armed Forces with a computer sc
 
 ## Currently Learning
 
+Im currently in the middle of the CS50x 2024 course by Harvard University with David J. Malan.
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noelbohlin&show_icons=true&theme=radical)
