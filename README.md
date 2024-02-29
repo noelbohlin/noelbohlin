@@ -14,7 +14,7 @@ I'm [Your Name], a passionate [Your Profession or Interests] from [Your Location
 
 [Include a GitHub stats card showcasing your contributions and activity.]
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=noelbohlin&show_icons=true&theme=radical)
 
 ## 📚 Featured Repositories
 
