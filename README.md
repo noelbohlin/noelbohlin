@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 
 I'm Noel, a communication soldier in the Swedish Armed Forces with a computer science hobby on the side. Welcome to my GitHub profile!
 
