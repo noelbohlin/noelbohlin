@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm Noel, a communication soldier in the Swedish Armed Forces with a computer science hobby on the side. Welcome to my GitHub profile!
+I'm Noel. Welcome to my GitHub profile!
 
 ## Technologies & Tools
 
@@ -28,7 +28,3 @@ Im currently in the middle of the CS50x 2024 course by Harvard University with D
 ## Let's Connect
 
 - bohlin.noel@gmail.com
-- noel.bohlin@mil.se
-- [Instagram](https://www.instagram.com/noelbohlin/)
-
-Feel free to explore my repositories and reach out if you have any questions or just want to connect!
